@@ -7,7 +7,8 @@
 ## 🚀 Featured Project: Flightradar24 Analytics Reverse-Engineering
 **Tools:** `Amplitude` | `Google Sheets` | `Miro`  
 **Project Type:** Product Instrumentation & Tracking Plan
-**[📄 Download Full Tracking Plan](./Flightradar24_Tracking_Plan.xlsx)
+
+[📄 Download Full Tracking Plan](./Flightradar24_Tracking_Plan.xlsx)
 
 In this project, I reverse-engineered the user tracking architecture for **Flightradar24**, a global flight tracking service. The goal was to design a robust event taxonomy that captures the complexity of live aviation data interaction.
 
