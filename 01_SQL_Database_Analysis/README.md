@@ -1,6 +1,7 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
-![BigQuery](https://img.shields.io/badge/Platform-Google_BigQuery-white?logo=google-cloud)
-![PostgreSQL](https://img.shields.io/badge/Platform-PostgreSQL-336791?logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Cloud-Google_BigQuery-white?logo=google-cloud&logoColor=4285F4)
+![Data Analysis](https://img.shields.io/badge/Focus-Product_Analytics-green)
 
 # 📊 SQL & Database Analysis Portfolio
 
