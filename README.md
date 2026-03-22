@@ -43,4 +43,5 @@ Explore the folders below to see my hands-on applications of SQL, data visualiza
 
 ## 📬 Let's Connect
 I am always open to discussing data strategy, product growth, or aviation tech.
-* **LinkedIn:** [https://www.linkedin.com/in/fbaturtavli/]
+* [LinkedIn](https://www.linkedin.com/in/fbaturtavli/)
+* [Email](mailto:furkanbaturtavli@gmail.com)
