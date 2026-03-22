@@ -1,3 +1,6 @@
+![Product Management](https://img.shields.io/badge/Focus-Product_Management-orange)
+![Amplitude](https://img.shields.io/badge/Analytics-Amplitude-purple)
+
 # 🗺️ Product Tracking Architecture
 
 > **Designing the "Source of Truth."** This folder focuses on product analytics instrumentation and event taxonomy. It demonstrates my ability to define tracking requirements that align with business KPIs and user journey optimization.
