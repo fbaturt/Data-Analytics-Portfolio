@@ -1,8 +1,7 @@
 /*******************************************************************************
 PROJECT: Omnichannel Marketing Performance Deep-Dive
 DATABASE: PostgreSQL (DBeaver)
-OBJECTIVE: Analyze cross-platform (Google & Facebook) ad performance to identify 
-           spend efficiency, ROMI records, and audience reach growth.
+OBJECTIVE: Analyze cross-platform (Google & Facebook) ad performance to identify spend efficiency, ROMI records, and audience reach growth.
 *******************************************************************************/
 
 -- 1. CROSS-PLATFORM SPEND ANALYSIS
