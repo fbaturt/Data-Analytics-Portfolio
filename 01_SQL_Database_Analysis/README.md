@@ -1,3 +1,7 @@
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![BigQuery](https://img.shields.io/badge/Platform-Google_BigQuery-white?logo=google-cloud)
+![PostgreSQL](https://img.shields.io/badge/Platform-PostgreSQL-336791?logo=postgresql)
+
 # 📊 SQL & Database Analysis Portfolio
 
 > **High-impact SQL projects transforming raw marketing and product event data into actionable business strategies.** This folder highlights my ability to handle complex data architectures, from **PostgreSQL** marketing databases to **Google BigQuery** GA4 event streams.
