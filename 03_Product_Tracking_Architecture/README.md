@@ -22,7 +22,7 @@ In this project, I reverse-engineered the user tracking architecture for **Fligh
 * **Tracking Plan (Schema):** Developed a developer-ready Google Sheets tracking plan, including data types, trigger conditions, and property naming conventions.
 
 ### 💡 Why this matters
-[cite_start]As an **Aeronautical Engineer**, I understand that the quality of the output depends entirely on the quality of the sensor data[cite: 2]. I apply that same "sensor-first" mindset to product analytics: if the tracking is broken, the insights are useless.
+As an **Aeronautical Engineer**, I understand that the quality of the output depends entirely on the quality of the sensor data. I apply that same "sensor-first" mindset to product analytics: if the tracking is broken, the insights are useless.
 
 ---
 
