@@ -7,7 +7,6 @@ This project focuses on identifying logistical bottlenecks and evaluating the pr
 
 > **Live Dashboard:** [Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/Superstore_Logistics_and_Profitability/SupplyChainLeadTimeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-> *(Replace the line below with your actual screenshot!)*
 > ![Tableau Dashboard Screenshot](tableau_dashboard_screenshot.png)
 
 ## 🛠️ Technical Highlights
