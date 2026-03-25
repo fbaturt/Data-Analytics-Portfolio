@@ -1,11 +1,12 @@
 # 📊 Data Analytics & Product Growth Portfolio
 
-![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-00758F?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![BigQuery](https://img.shields.io/badge/Data_Warehouse-Google_BigQuery-white?logo=google-cloud&logoColor=4285F4)
+![Google BigQuery](https://img.shields.io/badge/Data_Warehouse-Google_BigQuery-EEEEEE?logo=googlecloud&logoColor=4285F4&labelColor=555555)
+![Power BI](https://img.shields.io/badge/BI-Power_BI-F2C811?logo=powerbi&logoColor=black&labelColor=555555)
 ![Tableau](https://img.shields.io/badge/BI-Tableau-E97627?logo=tableau&logoColor=white)
-![GA4](https://img.shields.io/badge/Analytics-GA4-F9AB00?logo=google-analytics&logoColor=white)
-![Amplitude](https://img.shields.io/badge/Product-Amplitude-purple)
+![GA4](https://img.shields.io/badge/Analytics-GA4-E37400?logo=googleanalytics&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Product-Amplitude-5B36A6?logo=amplitude&logoColor=white)
 
 > **Transforming raw telemetry into actionable product strategies.** This repository showcases my technical proficiency in modern data stacks and my strategic approach to SaaS metrics, marketing efficiency, and user conversion funnels.
 
