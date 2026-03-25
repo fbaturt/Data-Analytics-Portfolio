@@ -5,6 +5,7 @@ Welcome to my data analytics portfolio. This repository showcases end-to-end pro
 ### 🛠️ Core Technologies
 ![Tableau](https://img.shields.io/badge/BI-Tableau-E97627?logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/BI-Power_BI-F2C811?logo=powerbi&logoColor=black&labelColor=555555)
 
 ---
 
