@@ -1,7 +1,7 @@
 # 💱 Dynamic Sales & Currency Dashboard
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-00599C?style=flat-square)
+![Power BI](https://img.shields.io/badge/BI-Power_BI-F2C811?logo=powerbi&logoColor=black&labelColor=555555)
+![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-00599C?)
 
 ## 📌 Overview
 This project transforms static supermarket sales data into a dynamic financial dashboard. By integrating a live web API, the dashboard allows users to instantly recalculate total revenue and sales volume across different currencies, providing a real-time view of financial performance.
