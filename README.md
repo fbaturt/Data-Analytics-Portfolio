@@ -23,11 +23,11 @@ Explore the folders below to see my hands-on applications of SQL, data visualiza
 
 | Project Folder | Core Technologies | Business Focus |
 | :--- | :--- | :--- |
-| **[`01_SQL_Database_Analysis`](./01_SQL_Database_Analysis)** | `PostgreSQL`, `BigQuery` | ROMI, Marketing Efficiency, Funnel Diagnostics |
-| **[`02_SaaS_Funnel_Dashboard`](./02_SaaS_Funnel_Dashboard)** | `Tableau`, `Data Viz` | User Journey, Drop-off Analysis, Executive Reporting |
-| **[`03_Product_Tracking_Architecture`](./03_Product_Tracking_Architecture)** | `Amplitude`, `Event Taxonomy` | Instrumentation, Time-to-First-Value (TTFV), Metrics Mapping |
-| **[`04_GA4_Ecommerce_Conversion_Funnel`](./04_GA4_Ecommerce_Conversion_Funnel)** | `GA4`, `SQL` | E-commerce Behavior, Landing Page Optimization |
-| **[`05_SaaS_MRR_and_Retention_Analytics`](./05_SaaS_MRR_and_Retention_Analytics)** | `Python`, `Power BI` | Churn Rate, MRR Growth, Cohort Analysis |
+| [01_SQL_Database_Analysis](./01_SQL_Database_Analysis) | `GA4`, `BigQuery`, `PostgreSQL` | ROMI, Marketing Efficiency, Funnel Diagnostics |
+| [02_SaaS_Funnel_Dashboard](./02_SaaS_Funnel_Dashboard) | `Power BI`, `Tableau` | User Journey, Drop-off Analysis, Executive Reporting |
+| [03_Product_Tracking_Architecture](./03_Product_Tracking_Architecture) | `Excel`, `Event Taxonomy` | Instrumentation, Time-to-First-Value (TTFV), Metrics Mapping |
+| [04_GA4_Ecommerce_Conversion_Funnel](./04_GA4_Ecommerce_Conversion_Funnel) | `GA4`, `SQL` | E-commerce Behavior, Landing Page Optimization |
+| [05_SaaS_MRR_and_Retention_Analytics](./05_SaaS_MRR_and_Retention_Analytics) | `Python`, `Power BI` | Churn Rate, MRR Growth, Cohort Analysis |
 
 *Note: This repository is actively updated as I implement advanced methodologies including A/B Testing and predictive modeling.*
 
