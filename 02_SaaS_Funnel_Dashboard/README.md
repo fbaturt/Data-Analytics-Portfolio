@@ -3,9 +3,8 @@
 Welcome to my data analytics portfolio. This repository showcases end-to-end projects demonstrating proficiency in extracting actionable insights, optimizing logistics, and building dynamic financial models using industry-leading BI platforms.
 
 ### 🛠️ Core Technologies
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/BI-Tableau-E97627?logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=postgresql&logoColor=white)
 
 ---
 
