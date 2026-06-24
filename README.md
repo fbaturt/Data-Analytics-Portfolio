@@ -38,8 +38,8 @@ This portfolio covers product analytics, SaaS metrics, marketing performance, an
 | [01](./01_SQL_Database_Analysis) | **SQL Database & Marketing Analytics** | `SQL` `BigQuery` `PostgreSQL` `GA4` | Multi-source marketing database with ROMI calculations, funnel diagnostics, and cohort analysis using advanced SQL (CTEs, window functions, JSON unnesting) |
 | [02](./02_SaaS_Funnel_Dashboard) | **SaaS Funnel Dashboard** | `Power BI` `Tableau` | End-to-end user journey dashboard tracking acquisition → activation → conversion drop-offs with executive-ready visuals |
 | [03](./03_Product_Tracking_Architecture) | **Product Tracking Architecture** | `Excel` `Amplitude` | Full event taxonomy design for a SaaS product — mapping user actions to measurable metrics including Time-to-First-Value (TTFV) and activation milestones |
-| [04](./04_GA4_Ecommerce_Conversion_Funnel) | **GA4 E-commerce Conversion Funnel** | `GA4` `SQL` | Conversion funnel analysis from landing page to purchase using GA4 custom events and BigQuery exports — identifying highest drop-off steps |
-| [05](./05_SaaS_MRR_and_Retention_Analytics) | **SaaS MRR & Retention Analytics** | `Python` `Power BI` | Cohort-based retention analysis and MRR decomposition (new, expansion, churned) with churn prediction indicators using Python and Pandas |
+| [04](./04_GA4_Ecommerce_Conversion_Funnel) | **GA4 E-commerce Conversion Funnel** 🔄 *In Progress* | `GA4` `SQL` | Conversion funnel analysis from landing page to purchase using GA4 custom events and BigQuery exports — identifying highest drop-off steps |
+| [05](./05_SaaS_MRR_and_Retention_Analytics) | **SaaS MRR & Retention Analytics** 🔄 *In Progress* | `Python` `Power BI` | Cohort-based retention analysis and MRR decomposition (new, expansion, churned) with churn prediction indicators using Python and Pandas |
 
 ---
 
@@ -76,4 +76,4 @@ Open to roles in **TSE, CAMO, Maintenance Planning**, and **Data Analytics** —
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furkan--batur--tavli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-batur-tavli/)
 [![Email](https://img.shields.io/badge/Email-furkanbaturtavli@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:furkanbaturtavli@gmail.com)
-[![Instagram](https://img.shields.io/badge/@airfighters-430K+_followers-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/airfighters/)
+[![Instagram](https://img.shields.io/badge/@fbaturt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fbaturt/)
