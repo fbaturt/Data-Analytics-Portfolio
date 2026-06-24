@@ -1,23 +1,33 @@
-# 📊 Data Analytics & Business Intelligence Portfolio
+# 02 — SaaS Funnel & BI Dashboard Projects
 
-Welcome to my data analytics portfolio. This repository showcases end-to-end projects demonstrating proficiency in extracting actionable insights, optimizing logistics, and building dynamic financial models using industry-leading BI platforms.
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-00599C?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft&logoColor=white)
 
-### 🛠️ Core Technologies
-![Tableau](https://img.shields.io/badge/BI-Tableau-E97627?logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/BI-Power_BI-F2C811?logo=powerbi&logoColor=black&labelColor=555555)
+> Two independent BI dashboard projects covering dynamic financial reporting in Power BI and geospatial supply chain analysis in Tableau.
+
+---
+
+## 📂 Subfolders
+
+| Folder | Tool | What I Built |
+|---|---|---|
+| [PowerBI_Supermarket_Sales](./PowerBI_Supermarket_Sales) | Power BI + DAX | Dynamic sales dashboard with live currency API integration — revenue recalculates in real time based on user slicer selection |
+| [Tableau_Supply_Chain](./Tableau_Supply_Chain) | Tableau | Geospatial supply chain dashboard identifying unprofitable shipping routes and lead time bottlenecks across North American regions |
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Key Techniques
 
-### 1. [Dynamic Sales & Currency Dashboard (Power BI)](./PowerBI_Supermarket_Sales)
-A financial intelligence dashboard integrating static retail data with a live external API to provide real-time currency conversion and revenue analysis.
-* **Key Skills:** API Integration, DAX, Power Query, Relational Data Modeling.
+**Power BI**
+Live external API integration via Power Query · Dynamic DAX measures for currency switching · Volume vs. revenue disparity visualisation
 
-### 2. [Supply Chain & Lead Time Optimization (Tableau)](./Tableau_Supply_Chain)
-An interactive geospatial dashboard mapping delivery bottlenecks and evaluating regional profitability to minimize lead times and optimize distribution networks. 
-* **Key Skills:** Geospatial Mapping, Dual-Axis Charts, Calculated Fields, Logistics Analytics.
+**Tableau**
+Zero-centered diverging heat maps · `DATEDIFF` order-level lead time calculation · Dual-axis synchronised charts · Performance-optimised global filters with Apply buttons
 
 ---
-*Feel free to explore the sub-folders for detailed methodologies, DAX scripts, and interactive dashboard links.*
+
+## 💡 Why These Projects
+
+Both projects go beyond standard dashboard work — they demonstrate that BI tools can consume live data, handle multi-currency logic, and surface operational inefficiencies that aggregate metrics hide. The supply chain analysis in particular maps directly to aviation MRO challenges: spare parts distribution, lead time variance, and regional cost optimisation.
