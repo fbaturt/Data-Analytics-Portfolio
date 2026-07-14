@@ -94,7 +94,7 @@ Good analytics isn't just writing SQL — anyone can pull the numbers. The value
 | File | Description |
 |---|---|
 | [`ga4_ecommerce_funnel.sql`](./ga4_ecommerce_funnel.sql) | BigQuery SQL — session-level funnel reconstruction |
-| `dashboard_screenshot.png` | Static preview of the Tableau dashboard |
+| [`dashboard_screenshot.png`](./dashboard_screenshot.png) | Static preview of the Tableau dashboard |
 
 ---
 
