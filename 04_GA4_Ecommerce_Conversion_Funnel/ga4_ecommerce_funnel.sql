@@ -11,7 +11,7 @@ WITH session_data AS (
     MAX(device.language) AS device_language,
     MAX(device.operating_system) AS device_os,
     
-    -- Huni (Funnel) Adımları
+    -- Funnel Steps
     COUNTIF(event_name = 'session_start') AS session_start_events,
     COUNTIF(event_name = 'view_item') AS view_item_events,
     COUNTIF(event_name = 'add_to_cart') AS add_to_cart_events,
@@ -20,7 +20,7 @@ WITH session_data AS (
     COUNTIF(event_name = 'add_payment_info') AS add_payment_info_events,
     COUNTIF(event_name = 'purchase') AS purchase_events,
     
-    -- Satış ve Siparişler
+    -- Sales and Orders
     SUM(ecommerce.purchase_revenue) AS sales_revenue,
     COUNT(DISTINCT ecommerce.transaction_id) AS orders
     
@@ -40,12 +40,12 @@ SELECT
   device_language,
   device_os,
   
-  -- Temel Metrikler
+  -- Basic Matrics
   COUNT(DISTINCT CONCAT(user_pseudo_id, CAST(session_id AS STRING))) AS total_visits,
   SUM(orders) AS total_orders,
   SUM(sales_revenue) AS total_sales,
   
-  -- Funnel (Huni) Metrikleri
+  -- Funnel Matrics
   SUM(session_start_events) AS step_1_session_start,
   SUM(view_item_events) AS step_2_view_item,
   SUM(add_to_cart_events) AS step_3_add_to_cart,
