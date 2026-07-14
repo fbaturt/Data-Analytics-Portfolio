@@ -38,8 +38,8 @@ This portfolio covers product analytics, SaaS metrics, marketing performance, an
 | [01](./01_SQL_Database_Analysis) | **SQL Database & Marketing Analytics** | `SQL` `BigQuery` `PostgreSQL` `GA4` | Multi-source marketing database with ROMI calculations, funnel diagnostics, and cohort analysis using advanced SQL (CTEs, window functions, JSON unnesting) |
 | [02](./02_SaaS_Funnel_Dashboard) | **SaaS Funnel Dashboard** | `Power BI` `Tableau` | End-to-end user journey dashboard tracking acquisition → activation → conversion drop-offs with executive-ready visuals |
 | [03](./03_Product_Tracking_Architecture) | **Product Tracking Architecture** | `Excel` `Amplitude` | Full event taxonomy design for a SaaS product — mapping user actions to measurable metrics including Time-to-First-Value (TTFV) and activation milestones |
-| [04](./04_GA4_Ecommerce_Conversion_Funnel) | **GA4 E-commerce Conversion Funnel** | `GA4` `SQL` | Conversion funnel analysis from landing page to purchase using GA4 custom events and BigQuery exports — identifying highest drop-off steps |
-| [05](./05_SaaS_MRR_and_Retention_Analytics) | **SaaS MRR & Retention Analytics** | `Python` `Power BI` | Cohort-based retention analysis and MRR decomposition (new, expansion, churned) with churn prediction indicators using Python and Pandas |
+| [04](./04_GA4_Ecommerce_Conversion_Funnel) | **GA4 E-commerce Conversion Funnel** | `GA4` `SQL` `Tableau` | 7-step conversion funnel on GA4 e-commerce data (~260K visits) — reconstructed session-level funnel in BigQuery, visualised drop-off points in Tableau |
+| [05](./05_SaaS_MRR_and_Retention_Analytics) | **SaaS MRR & Retention Analytics** | `PostgreSQL` `Tableau` | MRR decomposition (New/Expansion/Contraction/Churn) via a 4-stage CTE pipeline with LAG window functions — live financial health dashboard in Tableau |
 
 ---
 
